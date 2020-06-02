@@ -3,7 +3,10 @@ we are creating a graph GUI which can perform several operation like adding, del
 After installing PyQt5 (run command 'pip install PyQt5') to your system.Then run the graphGUI.py file. 
 
 Here is the screenshots of our graph GUI
+
+<p>     </p>
 <img src="/ss1.png" height=250>
+<p>     </p>
 <img src="/ss2.png" height=250>
 
 
